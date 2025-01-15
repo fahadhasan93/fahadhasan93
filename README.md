@@ -100,7 +100,7 @@
 
 
 <p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fahadali32&show_icons=true&locale=en" alt="fahadali32" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fahadhasan93&show_icons=true&locale=en" alt="fahadhasan93" />
 </p>
 
 
