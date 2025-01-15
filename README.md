@@ -1,18 +1,17 @@
-<h2 align="left">My Name is Fahad Hasan.I am from Dhaka,Bangladesh.Working as Student </h2>
+# Hi 👋, I'm Md. Fahad Hasan
+A passionate developer. Love coding and solving problems through code.
 
-###
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fahadhasan93&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fahadhasan93&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+### Connect with me:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](your-linkedin-url)
+[![Facebook](https://img.shields.io/badge/-Facebook-blue?logo=facebook)](your-facebook-url)
+[![Instagram](https://img.shields.io/badge/-Instagram-purple?logo=instagram)](your-instagram-url)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github)](your-github-url)
 
-###
+---
 
-<img align="right" height="150" src=""  />
-
-###
-
+### Languages and Tools:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -47,15 +46,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="linkedin logo"  />
 </div>
 
-###
+---
 
-<div align="left">
-  <a href="fahadhasan11388@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="www.linkedin.com/in/fahad-hasan-18a630269" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+### GitHub Stats:
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
 
-###
+### Most Used Languages:
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+
+
+
