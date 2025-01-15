@@ -4,7 +4,6 @@
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=fahadali32&label=Profile%20views&color=0e75b6&style=flat" alt="fahadali32" />
 </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/md-fahad-hasan-6aaa60346?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BBNSwDClGSsOX6MKcPDho2w%3D%3D" target="blank">
@@ -80,9 +79,9 @@
   <a href="https://www.microsoft.com/en-us/microsoft-365/word" target="_blank"> 
     <img src="https://img.icons8.com/color/48/000000/microsoft-word-2019.png" alt="Word" width="40" height="40"/> 
   </a>
-  <a href="https://www.canva.com/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Canva_Logo.png" alt="Canva" width="40" height="40"/> 
-  </a>
+ <a href="https://www.canva.com/your-username" target="blank">
+  <img align="center" src="https://cdn.simpleicons.org/canva" alt="Canva" height="30" width="40" />
+</a>
   <a href="https://www.autodesk.com/products/autocad/overview" target="_blank"> 
     <img src="https://img.icons8.com/color/48/000000/autocad.png" alt="AutoCAD" width="40" height="40"/> 
   </a>
