@@ -80,7 +80,7 @@
     <img src="https://img.icons8.com/color/48/000000/microsoft-word-2019.png" alt="Word" width="40" height="40"/> 
   </a>
  <a href="https://www.canva.com/your-username" target="blank">
-  <img src="https://cdn.simpleicons.org/canva" alt="Canva" height="40" width="40" />
+  <img src="https://img.icons8.com/color/48/000000/canva.png" alt="Canva" height="40" width="40" />
 </a>
   <a href="https://www.autodesk.com/products/autocad/overview" target="_blank"> 
     <img src="https://img.icons8.com/color/48/000000/autocad.png" alt="AutoCAD" width="40" height="40"/> 
@@ -93,7 +93,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fahadali32&show_icons=true&locale=en&layout=compact" alt="fahadali32" />
 </p>
 
-<h3 align="left">GitHub Stats:</h3>
+<h3 align="left">Fahad Hasan's GitHub Stats:</h3>
 <p align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=fahadali32&show_icons=true&locale=en" alt="fahadali32" />
 </p>
