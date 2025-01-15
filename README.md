@@ -1,5 +1,5 @@
 # Hi 👋, I'm Md. Fahad Hasan
-A passionate developer. Love coding and solving problems through code.
+A passionate Machine Learning Engineer. Love coding and solving problems through code.
 
 ---
 
@@ -48,7 +48,7 @@ A passionate developer. Love coding and solving problems through code.
 
 ---
 
-### GitHub Stats:
+### Fahad Hasan's GitHub Stats:
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
 
 ### Most Used Languages:
