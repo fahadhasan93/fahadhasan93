@@ -1,4 +1,4 @@
-<h2 align="left">My Name is Fahad Hasan.I am from Dhaka,Bangladesh.Working as Machine Learning Engineer</h2>
+<h2 align="left">My Name is Fahad Hasan.I am from Dhaka,Bangladesh.Working as Student </h2>
 
 ###
 
