@@ -55,16 +55,16 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> 
   </a>
   <a href="https://numpy.org/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="NumPy" width="40" height="40"/> 
   </a>
   <a href="https://pandas.pydata.org/" target="_blank"> 
-    <img src="https://github.com/valohai/ml-logos/blob/master/pandas.svg" alt="Pandas" width="40" height="40"/> 
+    <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"alt="Pandas" width="40" height="40"/> 
   </a>
   <a href="https://matplotlib.org/" target="_blank"> 
-    <img src="https://matplotlib.org/_static/logo2_compressed.svg" alt="Matplotlib" width="40" height="40"/> 
+    <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="Matplotlib" width="40" height="40"/> 
   </a>
   <a href="https://seaborn.pydata.org/" target="_blank"> 
-    <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="40" height="40"/> 
+    <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="Seaborn" width="40" height="40"/> 
   </a>
 </p>
 
@@ -80,7 +80,7 @@
     <img src="https://img.icons8.com/color/48/000000/microsoft-word-2019.png" alt="Word" width="40" height="40"/> 
   </a>
  <a href="https://www.canva.com/your-username" target="blank">
-  <img align="center" src="https://cdn.simpleicons.org/canva" alt="Canva" height="30" width="40" />
+  <img src="https://cdn.simpleicons.org/canva" alt="Canva" height="40" width="40" />
 </a>
   <a href="https://www.autodesk.com/products/autocad/overview" target="_blank"> 
     <img src="https://img.icons8.com/color/48/000000/autocad.png" alt="AutoCAD" width="40" height="40"/> 
