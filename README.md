@@ -89,10 +89,9 @@
   <a href="https://www.autodesk.com/products/autocad/overview" target="_blank"> 
     <img src="https://img.icons8.com/color/48/000000/autocad.png" alt="AutoCAD" width="40" height="40"/> 
   </a>
- <a href="https://www.netacad.com/courses/packet-tracer" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Cisco_packet_tracer_logo.png/320px-Cisco_packet_tracer_logo.png" alt="Cisco Packet Tracer" height="30" width="40" />
+<a href="https://www.netacad.com/courses/packet-tracer" target="_blank">
+    <img align="center" src="https://img.icons8.com/?size=100&id=XEnbmdky0kzu&format=png&color=000000" alt="Cisco Packet Tracer" height="30" width="40" />
 </a>
-
 
 </p>
 
