@@ -89,6 +89,10 @@
   <a href="https://www.autodesk.com/products/autocad/overview" target="_blank"> 
     <img src="https://img.icons8.com/color/48/000000/autocad.png" alt="AutoCAD" width="40" height="40"/> 
   </a>
+  <a href="https://github.com/fahadhasan93" target="_blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Cisco_logo.svg" alt="Cisco Packet Tracer" height="30" width="40" />
+</a>
+
 </p>
 
 
