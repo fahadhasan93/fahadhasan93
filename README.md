@@ -11,7 +11,7 @@
   <a href="https://leetcode.com/u/mdfahadhasan/" target="_blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="30" width="40" />
 </a>
-  <a href="https://www.linkedin.com/in/md-fahad-hasan-6aaa60346?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BBNSwDClGSsOX6MKcPDho2w%3D%3D" target="blank">
+  <a href="https://www.linkedin.com/in/md-fahad-hasan-61720a350?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BBNSwDClGSsOX6MKcPDho2w%3D%3D" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://www.facebook.com/profile.php?id=100027571990918" target="blank">
