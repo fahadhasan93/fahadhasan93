@@ -105,7 +105,7 @@
 
 
 <p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fahadali32&show_icons=true&locale=en&layout=compact&hide=javascript,lua,css,html&custom_title=My%20Top%20Languages" alt="fahadali32" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fahadhasan93&show_icons=true&locale=en&layout=compact&hide=python,c,java,sql,javascript,css,html&custom_title=Most%20Used%20Languages" alt="Most Used Languages" />
 </p>
 
 
