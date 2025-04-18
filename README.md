@@ -108,8 +108,6 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fahadali32&show_icons=true&locale=en&layout=compact" alt="fahadali32" />
 </p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fahadali32&show_icons=true&locale=en&layout=compact&exclude_repo=my-lua-project" alt="fahadali32" />
-
 
 
 <p align="left">
