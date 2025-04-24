@@ -104,10 +104,7 @@
 
 
 
-<p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fahadali32&show_icons=true&locale=en&layout=compact" alt="fahadali32" />
-</p>
-
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fahadhasan93&show_icons=true&locale=en&layout=compact&exclude_repo=REPO_NAME" alt="fahadhasan93" />
 
 
 <p align="left">
