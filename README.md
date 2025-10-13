@@ -6,7 +6,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
    <a href="https://mdfahadhasan.netlify.app/" target="_blank">
-  <img align="center" src="logo.png" alt="Website" height="30" width="40" />
+  <img align="center" src="https://img.icons8.com/fluency/48/000000/domain.png" alt="Website" height="30" width="40" />
 </a>
 
   <a href="https://www.hackerrank.com/profile/mdfahadhasan627" target="_blank">
@@ -28,7 +28,7 @@
   <a href="https://www.facebook.com/profile.php?id=100027571990918" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
-  <a href="https://www.instagram.com/fahad_hasan_mithu/target="blank">
+  <a href="https://www.instagram.com/fahad_hasan_mithu/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
   <a href="https://mail.google.com/mail/?view=cm&to=mdfahadhasan627@gmail.com" target="_blank">
@@ -116,6 +116,3 @@
 <p align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=fahadhasan93&show_icons=true&locale=en" alt="fahadhasan93" />
 </p>
-
-
-
