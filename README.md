@@ -6,7 +6,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
    <a href="https://mdfahadhasan.netlify.app/" target="_blank">
-  <img align="center" src="https://img.icons8.com/fluency/48/000000/domain.png" alt="Website" height="30" width="40" />
+  <img align="center" src="https://img.icons8.com/color/48/000000/domain.png" alt="Website" height="30" width="40" />
 </a>
 
   <a href="https://www.hackerrank.com/profile/mdfahadhasan627" target="_blank">
