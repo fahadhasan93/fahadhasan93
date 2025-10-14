@@ -5,9 +5,13 @@
 
 </div>
 
-<div align="center">
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=fahadali32&label=Profile%20Views&color=3b82f6&style=flat" alt="Profile views" />
+</div>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;Passionate+Problem+Solver;Building+AI+Solutions;Love+Coding+%26+Innovation" alt="Typing SVG" /> <img src="https://komarev.com/ghpvc/?username=fahadali32&label=Profile%20Views&color=3b82f6&style=for-the-badge" alt="Profile views" /> </div>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=%F0%9F%91%8B+Hi%2C+I'm+Md.+Fahad+Hasan;%F0%9F%A4%96+Machine+Learning+Engineer;%F0%9F%92%BB+Passionate+Problem+Solver;%F0%9F%9A%80+Building+AI+Solutions;%E2%9C%A8+Always+Learning+%26+Growing" alt="Typing SVG" />
+</div>
 
 ---
 
