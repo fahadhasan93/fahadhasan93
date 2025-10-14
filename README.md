@@ -117,14 +117,10 @@ me.say_hi()
 ## 📊 GitHub Statistics
 
 <div align="center">
-<!-- Animated stats with hover effects using Vercel's built-in animations -->
-<a href="https://github.com/fahadhasan93">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahadhasan93&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&langs_count=8" alt="Top Languages"/>
-</a>
-<a href="https://github.com/fahadhasan93">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=fahadhasan93&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&count_private=true" alt="GitHub Stats"/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=fahadhasan93&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahadhasan93&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
 </div>
+<div align="center">
 
 ---
 
