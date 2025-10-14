@@ -10,26 +10,34 @@
 
 ---
 
-🚀 About Me
+## 🚀 About Me
+
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-```javascript
-const fahad = {
-    location: "Dhaka, Bangladesh 🇧🇩",
-    role: "Machine Learning Engineer",
-    code: ["Python", "JavaScript", "Java", "C", "PHP"],
-    expertise: {
-        dataScience: ["NumPy", "Pandas", "Matplotlib", "Seaborn"],
-        webTech: ["HTML5", "CSS3", "JavaScript"],
-        database: ["MySQL"],
-        tools: ["Excel", "AutoCAD", "Packet Tracer", "Canva"]
-    },
-    currentFocus: "Building intelligent ML solutions",
-    passions: ["Problem Solving", "AI/ML", "Data Analysis"],
-    learning: ["Deep Learning", "NLP", "Computer Vision"],
-    funFact: "I debug with console.log() and I'm not ashamed! 😄"
-};
-```
+
+Hey there! I'm **Md. Fahad Hasan**, a passionate **Machine Learning Engineer** from **Dhaka, Bangladesh** 🇧🇩. I love solving complex problems and building intelligent solutions that make a real impact.
+
+### What I Do
+- 🤖 Build and deploy Machine Learning models
+- 📊 Analyze data to extract meaningful insights
+- 💻 Develop end-to-end ML solutions
+- 🧠 Explore Deep Learning, NLP, and Computer Vision
+
+### My Tech Arsenal
+**Languages:** Python, JavaScript, Java, C, PHP  
+**Data Science:** NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn  
+**Web:** HTML5, CSS3, JavaScript  
+**Database:** MySQL  
+**Tools:** Excel, AutoCAD, Packet Tracer, Canva
+
+### Currently
+🔭 Building intelligent ML solutions  
+🌱 Deepening my knowledge in Neural Networks & AI  
+💡 Always eager to learn and collaborate on exciting projects
+
+**Fun Fact:** I debug with console.log() and I'm not ashamed! 😄
+
 <br clear="right"/>
+
 ---
 
 ## 🌐 Connect With Me
