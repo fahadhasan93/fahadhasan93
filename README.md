@@ -17,9 +17,8 @@
 
 <img align="right" alt="Coding" width="370" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-```html
-<div align="left">
 
+<div align="left">
 ```python
 class MachineLearningEngineer:
     def __init__(self):
@@ -33,6 +32,7 @@ class MachineLearningEngineer:
 
 me = MachineLearningEngineer()
 me.say_hi()
+</div>
 ```
 
 ---
