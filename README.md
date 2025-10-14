@@ -17,11 +17,7 @@
 
 <img align="right" alt="Coding" width="370" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-
-with this HTML-safe version:
-```html
-<pre>
-<code>
+python
 class MachineLearningEngineer:
     def __init__(self):
         self.name = "Md. Fahad Hasan"
@@ -34,8 +30,6 @@ class MachineLearningEngineer:
 
 me = MachineLearningEngineer()
 me.say_hi()
-</code>
-</pre>
 
 
 ---
