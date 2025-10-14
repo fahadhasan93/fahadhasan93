@@ -7,6 +7,7 @@
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=%F0%9F%91%8B+Hi%2C+I'm+Md.+Fahad+Hasan;%F0%9F%A4%96+Machine+Learning+Engineer;%F0%9F%92%BB+Passionate+Problem+Solver;%F0%9F%9A%80+Building+AI+Solutions;%E2%9C%A8+Always+Learning+%26+Growing" alt="Typing SVG" />
+  
   <img src="https://komarev.com/ghpvc/?username=fahadali32&label=Profile%20Views&color=3b82f6&style=flat" alt="Profile views" />
 </div>
 
@@ -77,7 +78,7 @@ me.say_hi()
 
 ### Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,javascript,php,html,css" alt="Programming Languages"/>
+  <img src="https://skillicons.dev/icons?i=python,java,c,javascript,html,css" alt="Programming Languages"/>
 </p>
 
 ### Data Science & ML
@@ -104,9 +105,8 @@ me.say_hi()
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=fahadhasan93&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff" alt="GitHub Stats"/>
-
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahadhasan93&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff" alt="Top Languages"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=fahadhasan93&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff" alt="GitHub Stats"/>
 </p>
 
 ---
