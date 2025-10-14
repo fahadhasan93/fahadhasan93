@@ -15,7 +15,6 @@
   <!-- Profile Views Counter with Animation -->
   <p>
     <img src="https://komarev.com/ghpvc/?username=fahadhasan93&label=Profile%20Views&color=00d9ff&style=for-the-badge" alt="Profile Views" />
-    <img src="https://img.shields.io/github/followers/fahadhasan93?label=Followers&style=for-the-badge&color=00d9ff&logo=github" alt="GitHub Followers" />
   </p>
 
 </div>
