@@ -114,20 +114,24 @@ me.say_hi()
 
 ---
 
-## 📊 GitHub Statistics
+📊 GitHub Statistics
+<div align="center">
+<!-- Animated stats with hover effects using Vercel's built-in animations -->
+<a href="https://github.com/fahadhasan93">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahadhasan93&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&langs_count=8" alt="Top Languages"/>
+</a>
+<a href="https://github.com/fahadhasan93">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=fahadhasan93&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&count_private=true" alt="GitHub Stats"/>
+</a>
+</div>
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahadhasan93&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff" alt="Top Languages"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=fahadhasan93&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff" alt="GitHub Stats"/>
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fahadhasan93&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" width="100%"/>
-</p>
+📈 Contribution Graph
+<div align="center">
+<!-- Activity graph with area fill for animation effect -->
+<a href="https://github.com/fahadhasan93">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fahadhasan93&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Graph" width="98%"/>
+</a>
+</div>
 
 ---
 
