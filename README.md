@@ -41,12 +41,6 @@ me = MachineLearningEngineer()
 me.say_hi()
 ```
 
-- 🔭 Currently working on **Machine Learning Projects**
-- 🌱 Learning **Advanced Deep Learning & NLP**
-- 💡 Love solving problems through **code & algorithms**
-- 🎯 Goal: **Contribute to impactful AI solutions**
-- ⚡ Fun fact: **Code is poetry, algorithms are art**
-
 ---
 
 ## 🌐 Connect With Me
