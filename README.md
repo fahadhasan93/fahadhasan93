@@ -96,7 +96,7 @@ me.say_hi()
 ### Database & Tools
 <p align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="Microsoft Offices"/>
+  <img src="https://img.shields.io/badge/Microsoft_Offices-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="Microsoft Office"/>
   <img src="https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logo=autodesk&logoColor=white" alt="AutoCAD"/>
   <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco"/>
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
@@ -108,7 +108,6 @@ me.say_hi()
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=fahadhasan93&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=fahadhasan93&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
