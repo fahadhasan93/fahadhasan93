@@ -14,28 +14,25 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-Hey there! I'm **Md. Fahad Hasan**, a passionate **Machine Learning Engineer** from **Dhaka, Bangladesh** 🇧🇩. I love solving complex problems and building intelligent solutions that make a real impact.
+I'm a **Machine Learning Engineer** passionate about transforming data into meaningful AI solutions. I love solving real-world problems using ML, NLP, and Computer Vision. Based in Dhaka, Bangladesh, I'm constantly exploring new technologies and building intelligent systems that make a difference.
 
-### What I Do
-- 🤖 Build and deploy Machine Learning models
-- 📊 Analyze data to extract meaningful insights
-- 💻 Develop end-to-end ML solutions
-- 🧠 Explore Deep Learning, NLP, and Computer Vision
-
-### My Tech Arsenal
-**Languages:** Python, JavaScript, Java, C, PHP  
-**Data Science:** NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn  
-**Web:** HTML5, CSS3, JavaScript  
-**Database:** MySQL  
-**Tools:** Excel, AutoCAD, Packet Tracer, Canva
-
-### Currently
-🔭 Building intelligent ML solutions  
-🌱 Deepening my knowledge in Neural Networks & AI  
-💡 Always eager to learn and collaborate on exciting projects
-
-**Fun Fact:** I debug with console.log() and I'm not ashamed! 😄
-
+```javascript
+const fahad = {
+    location: "Dhaka, Bangladesh 🇧🇩",
+    role: "Machine Learning Engineer",
+    code: ["Python", "JavaScript", "Java", "C", "PHP"],
+    expertise: {
+        dataScience: ["NumPy", "Pandas", "Matplotlib", "Seaborn"],
+        webTech: ["HTML5", "CSS3", "JavaScript"],
+        database: ["MySQL"],
+        tools: ["Excel", "AutoCAD", "Packet Tracer", "Canva"]
+    },
+    currentFocus: "Building intelligent ML solutions",
+    passions: ["Problem Solving", "AI/ML", "Data Analysis"],
+    learning: ["Deep Learning", "NLP", "Computer Vision"],
+    funFact: "I debug with console.log() and I'm not ashamed! 😄"
+};
+```
 <br clear="right"/>
 
 ---
@@ -116,7 +113,6 @@ Hey there! I'm **Md. Fahad Hasan**, a passionate **Machine Learning Engineer** f
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahadhasan93&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff" alt="Top Languages"/>
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=fahadhasan93&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Contribution Graph"/>
 </p>
 
 ---
