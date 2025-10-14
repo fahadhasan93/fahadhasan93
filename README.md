@@ -78,7 +78,7 @@ me.say_hi()
 
 ### Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,javascript,html,css" alt="Programming Languages"/>
+  <img src="https://skillicons.dev/icons?i=python,c,java,javascript,html,css" alt="Programming Languages"/>
 </p>
 
 ### Data Science & ML
