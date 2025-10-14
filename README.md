@@ -115,11 +115,19 @@ me.say_hi()
 ---
 
 ## 📊 GitHub Statistics
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahadhasan93&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff" alt="Top Languages"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=fahadhasan93&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff" alt="GitHub Stats"/>
+<p align="left">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fahadhasan93&show_icons=true&locale=en&layout=compact&exclude_repo=REPO_NAME" alt="fahadhasan93" />
 </p>
+
+
+
+
+<p align="left">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fahadhasan93&show_icons=true&locale=en" alt="fahadhasan93" />
+</p>
+
+
+
 
 ---
 
