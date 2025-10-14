@@ -25,7 +25,7 @@ class MachineLearningEngineer:
         self.name = "Md. Fahad Hasan"
         self.role = "ML Engineer"
         self.location = "Dhaka, Bangladesh"
-        self.interests = ["AI", "Data Science", "Problem Solving"]
+        self.interests = ["AI", "Data Analysis", "Problem Solving, Front-End Development"]
         
     def say_hi(self):
         print("Thanks for dropping by! Let's build something amazing together.")
@@ -90,12 +90,14 @@ me.say_hi()
   <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
   <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn"/>
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
 </p>
 
 ### Database & Tools
 <p align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
+  <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="Microsoft Office"/>
   <img src="https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logo=autodesk&logoColor=white" alt="AutoCAD"/>
   <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco"/>
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
@@ -137,9 +139,22 @@ me.say_hi()
 ---
 
 ## 💡 Random Dev Quote
-
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="wave"/>
+</p>
+
+<p align="center">
+  <b>⭐ Feel free to explore my repositories and connect if you share similar interests in AI/ML! ⭐</b>
+</p>
+
+<p align="center">
+  <i>Let's collaborate and build something amazing together! 🚀</i>
 </p>
 
 ---
