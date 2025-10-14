@@ -1,29 +1,12 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Md.%20Fahad%20Hasan&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Machine%20Learning%20Engineer%20%7C%20Problem%20Solver%20%7C%20Code%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
-
-</div>
-
-<div align="center">
-  
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=100&lines=Hi+%F0%9F%91%8B+I'm+Md.+Fahad+Hasan;Passionate+Machine+Learning+Engineer;Always+Learning+%26+Growing" alt="Typing SVG" />
-</a>
-
-  <!-- Profile Views Counter with Animation -->
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=fahadhasan93&label=Profile%20Views&color=00d9ff&style=for-the-badge" alt="Profile Views" />
-  </p>
-
-</div>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;Passionate+Problem+Solver;Building+AI+Solutions;Love+Coding+%26+Innovation" alt="Typing SVG" /> <img src="https://komarev.com/ghpvc/?username=fahadali32&label=Profile%20Views&color=3b82f6&style=for-the-badge" alt="Profile views" /> </div>
 
 ---
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<img align="right" alt="Coding" width="370" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 ```python
 class MachineLearningEngineer:
