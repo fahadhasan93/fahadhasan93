@@ -15,10 +15,7 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About Me
 
-<picture>
-  <source media="(min-width: 768px)" srcset="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
-  <img align="right" alt="Coding" width="370" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" style="max-width: 100%; height: auto;">
-</picture>
+<img align="right" alt="Coding" width="370" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 ```python
 class MachineLearningEngineer:
@@ -26,25 +23,14 @@ class MachineLearningEngineer:
         self.name = "Md. Fahad Hasan"
         self.role = "ML Engineer"
         self.location = "Dhaka, Bangladesh"
-        self.interests = [
-            "AI", 
-            "Data Analysis", 
-            "Problem Solving", 
-            "Front-End Development"
-        ]
+        self.interests = ["AI", "Data Analysis", "Problem Solving", "Front-End Development"]
         
     def say_hi(self):
-        print(
-            "Thanks for dropping by! "
-            "Let's build something "
-            "amazing together."
-        )
+        print("Thanks for dropping by! Let's build something amazing together.")
 
 me = MachineLearningEngineer()
 me.say_hi()
 ```
-
-<br clear="right"/>
 
 ---
 
