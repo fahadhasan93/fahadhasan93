@@ -10,16 +10,26 @@
 
 ---
 
-## 🚀 About Me
-
-I'm a passionate **Machine Learning Engineer** based in **Dhaka, Bangladesh**, who loves turning complex problems into elegant solutions through code. With a strong foundation in AI/ML and data science, I'm constantly exploring new technologies and pushing the boundaries of what's possible.
-
-My journey in tech is driven by curiosity and a desire to create impactful solutions. Whether it's building predictive models, analyzing data patterns, or developing intelligent systems, I'm always eager to take on new challenges. Currently, I'm diving deep into **Deep Learning**, **Natural Language Processing**, and **Computer Vision** to expand my expertise.
-
-When I'm not coding, you'll find me solving algorithmic challenges on competitive platforms or contributing to open-source projects. I believe in continuous learning and sharing knowledge with the community.
-
-**Let's build something amazing together!** 🚀
-
+🚀 About Me
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+```javascript
+const fahad = {
+    location: "Dhaka, Bangladesh 🇧🇩",
+    role: "Machine Learning Engineer",
+    code: ["Python", "JavaScript", "Java", "C", "PHP"],
+    expertise: {
+        dataScience: ["NumPy", "Pandas", "Matplotlib", "Seaborn"],
+        webTech: ["HTML5", "CSS3", "JavaScript"],
+        database: ["MySQL"],
+        tools: ["Excel", "AutoCAD", "Packet Tracer", "Canva"]
+    },
+    currentFocus: "Building intelligent ML solutions",
+    passions: ["Problem Solving", "AI/ML", "Data Analysis"],
+    learning: ["Deep Learning", "NLP", "Computer Vision"],
+    funFact: "I debug with console.log() and I'm not ashamed! 😄"
+};
+```
+<br clear="right"/>
 ---
 
 ## 🌐 Connect With Me
