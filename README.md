@@ -1,118 +1,143 @@
-<h1 align="center">Hi 👋, I'm Md. Fahad Hasan</h1>
-<h3 align="center">A passionate Machine Learning Engineer . Love coding and solving problems by code.</h3>
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=fahadali32&label=Profile%20views&color=0e75b6&style=flat" alt="fahadali32" />
-</p>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-   <a href="https://mdfahadhasan.netlify.app/" target="_blank">
-  <img align="center" src="https://img.icons8.com/color/48/000000/domain.png" alt="Website" height="30" width="40" />
-</a>
+<div align="center">
 
-  <a href="https://www.hackerrank.com/profile/mdfahadhasan627" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
-</a>
-  <a href="https://leetcode.com/u/mdfahadhasan/" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="30" width="40" />
-</a>
-  <a href="https://www.kaggle.com/fahadhasan93" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
-</a>
+# 👨‍💻 Md. Fahad Hasan
 
-  <a href="https://www.linkedin.com/in/md-fahad-hasan-61720a350?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BBNSwDClGSsOX6MKcPDho2w%3D%3D" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+### Machine Learning Engineer | Problem Solver | Code Enthusiast
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&width=600&height=100&lines=Machine+Learning+Engineer;Passionate+Problem+Solver;Building+AI+Solutions;Always+Learning+%26+Growing" alt="Typing SVG" />
+
+<img src="https://komarev.com/ghpvc/?username=fahadhasan93&label=Profile%20Views&color=00d9ff&style=for-the-badge" alt="Profile views" />
+
+---
+
+## 🚀 About Me
+
+I'm a passionate **Machine Learning Engineer** based in **Dhaka, Bangladesh**, who loves turning complex problems into elegant solutions through code. With a strong foundation in AI/ML and data science, I'm constantly exploring new technologies and pushing the boundaries of what's possible.
+
+My journey in tech is driven by curiosity and a desire to create impactful solutions. Whether it's building predictive models, analyzing data patterns, or developing intelligent systems, I'm always eager to take on new challenges. Currently, I'm diving deep into **Deep Learning**, **Natural Language Processing**, and **Computer Vision** to expand my expertise.
+
+When I'm not coding, you'll find me solving algorithmic challenges on competitive platforms or contributing to open-source projects. I believe in continuous learning and sharing knowledge with the community.
+
+**Let's build something amazing together!** 🚀
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://mdfahadhasan.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://github.com/fahadhasan93" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/md-fahad-hasan-61720a350">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.facebook.com/profile.php?id=100027571990918" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+  <a href="https://github.com/fahadhasan93">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://www.instagram.com/fahad_hasan_mithu/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  <a href="mailto:mdfahadhasan627@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://mail.google.com/mail/?view=cm&to=mdfahadhasan627@gmail.com" target="_blank">
-   <img align="center" src="https://cdn.simpleicons.org/gmail" alt="Email" height="30" width="40" />
- </a>
-</p>
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <!-- Programming Languages -->
-  <a href="https://www.w3.org/html/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> 
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
-  </a>
-  <a href="https://www.python.org" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3schools.com/c/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> 
-  </a> 
- <a href="https://www.java.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-</a>
-
-<a href="https://www.php.net/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-</a>
-
-<a href="https://www.mysql.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-</a>
-  <a href="https://numpy.org/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
-</a>
-
-<a href="https://pandas.pydata.org/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-</a>
-
-<a href="https://matplotlib.org/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40"/>
-</a>
-
- <a href="https://seaborn.pydata.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/seaborn/seaborn/master/doc/_static/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
- </a>
 </p>
 
-<p align="left">
-  <!-- Tools -->
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"> 
-    <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" alt="Excel" width="40" height="40"/> 
+<p align="center">
+  <a href="https://www.kaggle.com/fahadhasan93">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
   </a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint" target="_blank"> 
-    <img src="https://img.icons8.com/color/48/000000/microsoft-powerpoint-2019.png" alt="PowerPoint" width="40" height="40"/> 
+  <a href="https://leetcode.com/u/mdfahadhasan/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/word" target="_blank"> 
-    <img src="https://img.icons8.com/color/48/000000/microsoft-word-2019.png" alt="Word" width="40" height="40"/> 
+  <a href="https://www.hackerrank.com/profile/mdfahadhasan627">
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank"/>
   </a>
- <a href="https://www.canva.com/your-username" target="blank">
-  <img src="https://img.icons8.com/color/48/000000/canva.png" alt="Canva" height="40" width="40" />
-</a>
-  <a href="https://www.autodesk.com/products/autocad/overview" target="_blank"> 
-    <img src="https://img.icons8.com/color/48/000000/autocad.png" alt="AutoCAD" width="40" height="40"/> 
-  </a>
-<a href="https://www.netacad.com/courses/packet-tracer" target="_blank">
-    <img align="center" src="https://img.icons8.com/?size=100&id=XEnbmdky0kzu&format=png&color=000000" alt="Cisco Packet Tracer" height="40" width="40" />
-</a>
-
 </p>
 
-<p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fahadhasan93&show_icons=true&locale=en&layout=compact&exclude_repo=REPO_NAME" alt="fahadhasan93" />
+<p align="center">
+  <a href="https://www.facebook.com/profile.php?id=100027571990918">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://www.instagram.com/fahad_hasan_mithu/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
 </p>
 
+---
 
+## 💻 Tech Stack
 
-
-<p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fahadhasan93&show_icons=true&locale=en" alt="fahadhasan93" />
+### Programming Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c,javascript,php,html,css" alt="Programming Languages"/>
 </p>
+
+### Data Science & ML
+<p align="center">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+</p>
+
+### Database & Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
+  <img src="https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logo=autodesk&logoColor=white" alt="AutoCAD"/>
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=fahadhasan93&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=fahadhasan93&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahadhasan93&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff" alt="Top Languages"/>
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=fahadhasan93&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Contribution Graph"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fahadhasan93&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" width="100%"/>
+</p>
+
+---
+
+## 🎯 Current Focus
+
+```yaml
+🔭 Working on: Machine Learning Projects & AI Solutions
+🌱 Learning: Deep Learning, Neural Networks, NLP
+👯 Looking to collaborate on: ML/AI Open Source Projects
+💬 Ask me about: Python, Machine Learning, Data Science
+⚡ Fun fact: I turn coffee into code ☕→💻
+```
+
+---
+
+## 💡 Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20Visiting!&fontSize=30&fontColor=ffffff&animation=twinkling" alt="Footer"/>
+</p>
+
+<p align="center">
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love"/>
+  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="Powered by Coffee"/>
+</p>
+
+</div>
