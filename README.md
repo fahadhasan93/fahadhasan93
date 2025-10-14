@@ -1,4 +1,5 @@
 <div align="center">
+<!-- Animated Header -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Md.%20Fahad%20Hasan&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Machine%20Learning%20Engineer%20%7C%20Problem%20Solver%20%7C%20Code%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
 
@@ -24,25 +25,14 @@ class MachineLearningEngineer:
         self.name = "Md. Fahad Hasan"
         self.role = "ML Engineer"
         self.location = "Dhaka, Bangladesh"
-        self.interests = [
-            "AI & Machine Learning",
-            "Data Analysis", 
-            "Problem Solving",
-            "Front-End Development"
-        ]
-        self.current_focus = "Deep Learning & Neural Networks"
+        self.interests = ["AI", "Data Analysis", "Problem Solving, Front-End Development"]
         
     def say_hi(self):
         print("Thanks for dropping by! Let's build something amazing together.")
-    
-    def get_in_touch(self):
-        return "mdfahadhasan627@gmail.com"
 
 me = MachineLearningEngineer()
 me.say_hi()
 ```
-
-I'm a passionate **Machine Learning Engineer** from Bangladesh, dedicated to creating intelligent solutions that make a difference. With a strong foundation in Python, data science, and AI, I love tackling complex problems and turning data into actionable insights.
 
 ---
 
@@ -75,6 +65,15 @@ I'm a passionate **Machine Learning Engineer** from Bangladesh, dedicated to cre
   </a>
 </p>
 
+<p align="center">
+  <a href="https://www.facebook.com/profile.php?id=100027571990918">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://www.instagram.com/fahad_hasan_mithu/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
+
 ---
 
 ## 💻 Tech Stack
@@ -84,7 +83,7 @@ I'm a passionate **Machine Learning Engineer** from Bangladesh, dedicated to cre
   <img src="https://skillicons.dev/icons?i=python,java,c,javascript,php,html,css" alt="Programming Languages"/>
 </p>
 
-### Data Science & Machine Learning
+### Data Science & ML
 <p align="center">
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
@@ -94,49 +93,15 @@ I'm a passionate **Machine Learning Engineer** from Bangladesh, dedicated to cre
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
 </p>
 
-### Tools & Technologies
+### Database & Tools
 <p align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
+  <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="Microsoft Office"/>
+  <img src="https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logo=autodesk&logoColor=white" alt="AutoCAD"/>
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco"/>
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
 </p>
-
----
-
-## 🎯 What I'm Up To
-
-```yaml
-🔭 Currently Working On: 
-   - Building predictive models for real-world problems
-   - Exploring computer vision applications
-   - Contributing to open-source ML projects
-
-🌱 Currently Learning: 
-   - Deep Learning architectures (CNNs, RNNs, Transformers)
-   - Natural Language Processing
-   - MLOps and model deployment
-
-👯 Open to Collaborate On: 
-   - Machine Learning research projects
-   - Data science competitions
-   - Open-source AI/ML initiatives
-
-💬 Ask Me About: 
-   - Python programming
-   - Machine Learning algorithms
-   - Data preprocessing and analysis
-   - Getting started with Kaggle
-
-📫 How to Reach Me: 
-   - Email: mdfahadhasan627@gmail.com
-   - LinkedIn: linkedin.com/in/md-fahad-hasan-61720a350
-
-⚡ Fun Fact: 
-   I turn coffee into code and data into insights! ☕→💻→📊
-```
 
 ---
 
@@ -148,25 +113,12 @@ I'm a passionate **Machine Learning Engineer** from Bangladesh, dedicated to cre
 </p>
 
 <p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahadhasan93&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&langs_count=8" alt="Top Languages"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahadhasan93&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff" alt="Top Languages"/>
 </p>
 
 ---
 
-## 🏆 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/fahadhasan93?tab=repositories">
-    <img src="https://img.shields.io/badge/View_All_Projects-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="View Projects"/>
-  </a>
-</p>
-
-> 🚀 **Check out my pinned repositories below for my best work!**  
-> From ML models to data analysis projects, I'm constantly building and learning.
-
----
-
-## 📈 Contribution Activity
+## 📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=fahadhasan93&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" width="100%"/>
@@ -174,33 +126,46 @@ I'm a passionate **Machine Learning Engineer** from Bangladesh, dedicated to cre
 
 ---
 
-## 💡 Random Dev Quote
+## 🎯 Current Focus
 
+```yaml
+🔭 Working on: Machine Learning Projects & AI Solutions
+🌱 Learning: Deep Learning, Neural Networks, NLP
+👯 Looking to collaborate on: ML/AI Open Source Projects
+💬 Ask me about: Python, Machine Learning, Data Science
+⚡ Fun fact: I turn coffee into code ☕→💻
+```
+
+---
+
+## 💡 Random Dev Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
 </p>
 
 ---
 
-## 🤝 Let's Build Together!
-
-I'm always excited to collaborate on interesting projects, especially in the AI/ML space. Whether you have an idea, want to discuss technology, or just want to connect, feel free to reach out!
-
 <p align="center">
-  <b>⭐ If you like my work, consider starring my repositories! ⭐</b>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="wave"/>
 </p>
 
 <p align="center">
-  <i>Together, we can create something extraordinary! 🚀</i>
+  <b>⭐ Feel free to explore my repositories and connect if you share similar interests in AI/ML! ⭐</b>
+</p>
+
+<p align="center">
+  <i>Let's collaborate and build something amazing together! 🚀</i>
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20Visiting!&fontSize=30&fontColor=ffffff&animation=twinkling" alt="Footer"/>
+</p>
 
 <p align="center">
   <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love"/>
   <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="Powered by Coffee"/>
 </p>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="Footer Wave"/>
 </div>
