@@ -12,11 +12,10 @@
 </div>
 
 ---
-
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About Me
+
 <img align="right" alt="Coding" width="370" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
-<div align="left">
-  
+
 ```python
 class MachineLearningEngineer:
     def __init__(self):
@@ -30,9 +29,8 @@ class MachineLearningEngineer:
 
 me = MachineLearningEngineer()
 me.say_hi()
-```
 
-</div>
+```
 
 ---
 
