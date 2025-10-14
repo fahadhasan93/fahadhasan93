@@ -23,7 +23,7 @@ class MachineLearningEngineer:
         self.name = "Md. Fahad Hasan"
         self.role = "ML Engineer"
         self.location = "Dhaka, Bangladesh"
-        self.interests = ["AI", "Data Analysis", "Problem Solving, Front-End Development"]
+        self.interests = ["AI", "Data Analysis", "Problem Solving", "Front-End Development"]
         
     def say_hi(self):
         print("Thanks for dropping by! Let's build something amazing together.")
@@ -31,6 +31,46 @@ class MachineLearningEngineer:
 me = MachineLearningEngineer()
 me.say_hi()
 ```
+
+---
+
+## 🎯 Current Focus
+
+```yaml
+🔭 Working on: Machine Learning Projects & AI Solutions
+🌱 Learning: Deep Learning, Neural Networks, NLP
+👯 Looking to collaborate on: ML/AI Open Source Projects
+💬 Ask me about: Python, Machine Learning, Data Science
+⚡ Fun fact: I turn coffee into code ☕→💻
+```
+
+---
+
+## 💻 Tech Stack
+
+### Programming Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,java,javascript,html,css" alt="Programming Languages"/>
+</p>
+
+### Data Science & ML
+<p align="center">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+</p>
+
+### Database & Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Microsoft_Offices-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="Microsoft Office"/>
+  <img src="https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logo=autodesk&logoColor=white" alt="AutoCAD"/>
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
+</p>
 
 ---
 
@@ -74,34 +114,6 @@ me.say_hi()
 
 ---
 
-## 💻 Tech Stack
-
-### Programming Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,java,javascript,html,css" alt="Programming Languages"/>
-</p>
-
-### Data Science & ML
-<p align="center">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
-  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-</p>
-
-### Database & Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Microsoft_Offices-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="Microsoft Office"/>
-  <img src="https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logo=autodesk&logoColor=white" alt="AutoCAD"/>
-  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco"/>
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
-</p>
-
----
-
 ## 📊 GitHub Statistics
 
 <p align="center">
@@ -116,18 +128,6 @@ me.say_hi()
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=fahadhasan93&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" width="100%"/>
 </p>
-
----
-
-## 🎯 Current Focus
-
-```yaml
-🔭 Working on: Machine Learning Projects & AI Solutions
-🌱 Learning: Deep Learning, Neural Networks, NLP
-👯 Looking to collaborate on: ML/AI Open Source Projects
-💬 Ask me about: Python, Machine Learning, Data Science
-⚡ Fun fact: I turn coffee into code ☕→💻
-```
 
 ---
 
